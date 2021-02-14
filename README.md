@@ -1,2 +1,4 @@
-# Simon
-Another game, this time its Simon Game which is written with HTML5,CSS3,Javascript and jQuery
+# Simon Game
+this time using HTML5,CSS3,***Javascript and jQuery combinations*** to make changes, event listeners, sounds, animations and much more.
+
+Enjoy playing the game :)
