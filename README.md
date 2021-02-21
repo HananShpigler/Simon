@@ -1,6 +1,7 @@
 # Simon Game
-This time i am using HTML5,CSS3,***Javascript and jQuery combinations*** to make changes, event listeners, sounds, animations and much more.
+Creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex
 
-Enjoy playing the game :)
+## Getting Started
+Just click on the link below 👇 and start playing, enjoy !
 
-https://hananshpigler.github.io/Simon/
+🔥 https://hananshpigler.github.io/Simon/ 🔥
