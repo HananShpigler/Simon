@@ -8,4 +8,4 @@ If you lose, press any key on the keyboard to start a new game.
 ## Getting Started
 Just click on the link below 👇, enjoy !
 
-🔥 https://hananshpigler.github.io/Simon/ 🔥
+🕋 https://hananshpigler.github.io/Simon/ 🕋
